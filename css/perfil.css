@@ -1,0 +1,59 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+h1{
+    font-size: 3rem;
+}
+.foto_perfil{
+    height: 10rem;
+    width: 10rem;
+    position: absolute;
+    left: 5%;
+}
+main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mail{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+.input{
+ font-size: 1.5rem;
+}
+.senha{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+.notificacao{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+.suporte{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+.duvida{
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+.foto_suporte{
+    height: 10rem;
+    width: 10rem;
+}
