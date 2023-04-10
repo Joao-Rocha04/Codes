@@ -18,7 +18,10 @@ header{
 .ingredientes{
     display: flex;
     border: 1px solid black;
-    margin: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 35rem;
+    margin-right: 35rem;
     justify-content: center;
     align-items: center;
     flex-direction: column;
