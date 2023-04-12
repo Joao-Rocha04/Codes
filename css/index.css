@@ -4,8 +4,8 @@ body{
     height: 80%;
 }
 #fotos{
-width: 150px;
-height: 150px;
+width: 75px;
+height: 75px;
 }
 header{
     height: 20%;
@@ -15,7 +15,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background-color: rgb(94, 134, 243);
-    font-size: 5rem;
+    font-size: 4rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: sans-serif;
 }
