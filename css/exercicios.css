@@ -6,6 +6,7 @@ html{
 body{
     height: 100%;
     width: 100%;
+    background-color: #d9ddce;
 }
 header{
     width: 100%;
@@ -16,6 +17,8 @@ header{
     position: relative;
     font-size: 4rem;
     border-bottom: 1px solid black;
+    background-color: #719bb9;
+    color: #3b4b59;
 }
 main{
     width: 100%;
