@@ -4,7 +4,7 @@ body{
     height: 80%;
 }
 html{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif, 'Roboto', sans-serif;
 }
 #fotos{
 width: 75px;
@@ -20,7 +20,6 @@ header{
     align-items: center;
     justify-content: space-around;
     font-size: 4rem;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: sans-serif;
     background-color: #719bb9;
     color: black;
