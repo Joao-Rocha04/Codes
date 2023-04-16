@@ -19,6 +19,12 @@ header{
     font-size: 4rem;
     background-color: #719bb9;
 }
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 video{
-    margin: 3rem;
+    height: 23rem;
+    width: 25rem;
 }
