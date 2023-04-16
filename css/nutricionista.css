@@ -14,10 +14,12 @@ header{
     justify-content: center;
     align-items: center;
     font-size: 4rem;
+    background-color: #719bb9;
 }
 main{
     width: 100%;
     height: 80%;
+    background-color: #d9ddce;
 }
 h1{
     display: flex;
@@ -31,6 +33,7 @@ h1{
     margin-right: 7%;
     height: 80%;
     border: 1px solid black;
+    background-color: white;
 }
 .texto{
     display: flex;

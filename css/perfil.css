@@ -14,9 +14,12 @@ header{
     align-items: center;
     justify-content: center;
     position: relative;
+    background-color: #719bb9;
+
 }
 h1{
     font-size: 3rem;
+    font-style: sans-serif;
 }
 .foto_perfil{
     height: 10rem;
@@ -30,6 +33,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #d9ddce;
 }
 .mail{
     margin: 1rem;

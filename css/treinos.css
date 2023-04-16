@@ -6,6 +6,7 @@ html{
 body{
     height: 100%;
     width: 100%;
+    background-color: #d9ddce;
 }
 header{
     width: 100%;
@@ -15,6 +16,8 @@ header{
     justify-content: center;
     position: relative;
     font-size: 4rem;
+    background-color: #719bb9;
+    color: black;
 }
 .titulo{
     display: flex;
@@ -43,4 +46,7 @@ header{
     position: absolute;
     bottom: 4rem;
     right: 1rem;
+}
+ol{
+    background-color: #8c8f8d;
 }
