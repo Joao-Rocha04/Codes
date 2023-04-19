@@ -16,6 +16,10 @@ header{
     font-size: 4rem;
     background-color: #719bb9;
 }
+.voltar{
+    width: 7rem;
+    height: 6rem;
+}
 main{
     width: 100%;
     height: 80%;

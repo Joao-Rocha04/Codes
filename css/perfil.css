@@ -17,6 +17,10 @@ header{
     background-color: #719bb9;
 
 }
+.voltar{
+    width: 7rem;
+    height: 6rem;
+}
 h1{
     font-size: 3rem;
     font-style: sans-serif;

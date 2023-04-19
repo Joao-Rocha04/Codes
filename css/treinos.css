@@ -9,6 +9,7 @@ body{
     background-color: #d9ddce;
 }
 header{
+    position: relative;
     width: 100%;
     height: 8rem;
     display: flex;
@@ -18,6 +19,13 @@ header{
     font-size: 4rem;
     background-color: #719bb9;
     color: black;
+}
+.voltar{
+    position: absolute;
+    left: 1rem;
+    top: 1.3rem;
+    width: 7rem;
+    height: 6rem;
 }
 .titulo{
     display: flex;

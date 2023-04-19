@@ -8,6 +8,10 @@ body{
     width: 100%;
     background-color: #d9ddce;
 }
+.voltar{
+    width: 7rem;
+    height: 6rem;
+}
 header{
     width: 100%;
     height: 30%;
