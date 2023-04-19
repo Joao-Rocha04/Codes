@@ -9,7 +9,7 @@ body{
 }
 header{
     width: 100%;
-    height: 15rem;
+    height: 20%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,12 +22,13 @@ h1{
     font-style: sans-serif;
 }
 .foto_perfil{
-    height: 10rem;
-    width: 10rem;
+    height: 7rem;
+    width: 7rem;
     position: absolute;
     left: 5%;
 }
 main{
+    height: 80%;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -59,6 +60,6 @@ main{
     font-size: 1.5rem;
 }
 .foto_suporte{
-    height: 10rem;
-    width: 10rem;
+    height: 7rem;
+    width: 7rem;
 }
