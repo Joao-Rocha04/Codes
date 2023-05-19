@@ -70,3 +70,6 @@ main{
     height: 7rem;
     width: 7rem;
 }
+a{
+    text-decoration: none;
+}

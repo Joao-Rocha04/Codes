@@ -32,3 +32,6 @@ video{
     height: 23rem;
     width: 25rem;
 }
+a{
+    text-decoration: none;
+}

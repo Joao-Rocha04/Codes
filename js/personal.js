@@ -8,5 +8,6 @@ document.addEventListener('DOMContentLoaded',function(){
         texto_para_adicionar = document.createElement('p')
         texto_para_adicionar.innerHTML = valor
         box.appendChild(texto_para_adicionar)
+        texto.value = ''
     })
 })

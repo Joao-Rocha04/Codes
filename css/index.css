@@ -5,6 +5,8 @@ body{
 }
 html{
     font-family: 'Open Sans', sans-serif, 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%;
 }
 #fotos{
 width: 75px;
@@ -13,7 +15,7 @@ color: #3b4b59;
 
 }
 header{
-    height: 30%;
+    height: 20%;
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -28,7 +30,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 70%;
+    height: 80%;
     background-color: #d9ddce;
 }
 .Meta_Treino{
@@ -101,7 +103,6 @@ margin: 2rem;
     width: 4rem;
     height: 3rem;
     background-color: #719bb9;
-    
 
 }
 .Dieta{
@@ -127,11 +128,12 @@ margin: 2rem;
     align-items: center;
     border: solid black 2px;
     padding: 1rem;
-    width: 5rem;
-    height: 2rem;
+    width: 10rem;
+    height: 5rem;
     border-radius: 10%;
     background-color: #719bb9;
-
+    font-size: 1.7rem;
+    text-decoration: none;
 }
 .manha{
     display: block;
@@ -141,4 +143,7 @@ margin: 2rem;
 }
 .jantar{
     display: none;
+}
+a{
+    text-decoration: none;
 }
