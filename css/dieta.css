@@ -12,17 +12,17 @@ body{
     height: 6rem;
     position: absolute;
     left: 1rem;
-    top: 2rem;
+    top: 4rem;
 }
 main{
-    height: 75%;
+    height: 85%;
     width: 100%;
     background-color: #d9ddce;
 }
 header{
     position: relative;
     width: 100%;
-    height: 25%;
+    height: 15%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -36,12 +36,14 @@ header{
     border: 1px solid black;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    margin-left: 30%;
+    margin-left: 22.5%;
     margin-right: 30%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     background-color: #8c8f8d;
+    width: 30rem;
+    height: 10rem;
 
 }
 .titulo{
@@ -50,14 +52,18 @@ header{
     font-size: 2.5rem;
 }
 .imagem{
-    width: 3rem;
-    height: 3rem;
+    width: 5rem;
+    height: 5rem;
     position: absolute;
-    bottom: 0;
-    right: 1rem;
+    bottom: 17rem;
+    right: 7rem;
 }
 .falar{
     position: absolute;
-    bottom: 4rem;
-    right: 1rem;
+    bottom: 25rem;
+    right: 3rem;
+    font-size: 2rem;
+}
+.dietas{
+    font-size: 2rem;
 }

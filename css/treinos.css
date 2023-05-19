@@ -30,30 +30,34 @@ header{
 .titulo{
     display: flex;
     justify-content: center;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .exercicio{
     display: flex;
     border: 1px solid black;
-    margin-left: 30%;
+    margin-left: 22.5%;
     margin-right: 30%;
     margin-top: 1rem;
     margin-bottom: 1rem;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 10rem;
+    width: 30rem;
+    font-size: 2rem;
 }
 .imagem{
-    width: 3rem;
-    height: 3rem;
+    width: 5rem;
+    height: 5rem;
     position: absolute;
-    bottom: 0;
-    right: 1rem;
+    bottom: 22rem;
+    right: 5rem;
 }
 .falar{
     position: absolute;
-    bottom: 4rem;
-    right: 1rem;
+    bottom: 30rem;
+    right: 5rem;
+    font-size: 2.5rem;
 }
 ol{
     background-color: #8c8f8d;
