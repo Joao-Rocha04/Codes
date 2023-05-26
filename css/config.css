@@ -9,10 +9,11 @@ body{
 }
 .voltar{
     width: 7rem;
-    height:7rem;
-    position: absolute;
-    left: 1rem;
-    top: 6rem;
+    height: 6rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    left: -7rem;
 }
 header{
     position: relative;
