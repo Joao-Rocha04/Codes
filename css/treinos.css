@@ -56,9 +56,9 @@ header{
 }
 .falar{
     position: absolute;
-    bottom: 30rem;
-    right: 5rem;
-    font-size: 2.5rem;
+    bottom: 20rem;
+    right: 1rem;
+    font-size: 2rem;
 }
 ol{
     background-color: #8c8f8d;
