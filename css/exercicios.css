@@ -45,8 +45,10 @@ li{
     flex-direction: column;
     font-size: 2rem;
 }
-button{
+.botão{
     margin-top: 1rem;
     padding: 10px 24px;
     background-color: #ADD8E6;
+    font-size: 2rem;
+    width: 10rem;
 }

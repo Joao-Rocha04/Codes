@@ -17,8 +17,11 @@ header{
     background-color: #719bb9;
 }
 .voltar{
+    position: absolute;
     width: 7rem;
     height: 6rem;
+    top: 6.5rem;
+    left: 4rem;
 }
 main{
     width: 100%;
@@ -38,6 +41,7 @@ h1{
     height: 80%;
     border: 1px solid black;
     background-color: white;
+    font-size: 2rem;
 }
 .texto{
     display: flex;

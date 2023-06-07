@@ -17,7 +17,6 @@ header{
     justify-content: center;
     position: relative;
     background-color: #719bb9;
-    font-style: sans-serif;
     color: black;
 }
 .voltar{
@@ -64,5 +63,6 @@ ol{
     background-color: #8c8f8d;
 }
 a{
+    color: black;
     text-decoration: none;
 }

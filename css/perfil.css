@@ -16,7 +16,6 @@ header{
     justify-content: center;
     position: relative;
     background-color: #719bb9;
-    font-style: sans-serif;
     color: black;
 
 }
@@ -31,11 +30,11 @@ header{
 }
 h1{
     font-size: 3rem;
-    font-style: sans-serif;
 }
 .foto_perfil{
     height: 7rem;
     width: 7rem;
+    margin-left: 5rem;
     
 }
 main{
@@ -49,27 +48,26 @@ main{
 }
 .mail{
     margin: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 .input{
- font-size: 1.5rem;
- size: 15rem;
+ font-size: 2rem;
 }
 .senha{
     margin: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 .notificacao{
     margin: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 .suporte{
     margin: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 .duvida{
     margin: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 .foto_suporte{
     height: 7rem;
@@ -77,4 +75,8 @@ main{
 }
 a{
     text-decoration: none;
+}
+.input1{
+    height: 2rem;
+    width: 2rem;
 }
