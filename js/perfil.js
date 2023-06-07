@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded',function(){
     mail = document.querySelector('.mail')
     enviar_mail = mail.querySelector('input[type="submit"]')
+    enviar_mail.style.backgroundColor = "#ADD8E6";
     texto_mail = mail.querySelector('input[type="email"]')
     enviar_mail.addEventListener('click',function(){
         valor = texto_mail.value
@@ -16,6 +17,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
     senha = document.querySelector('.senha')
     enviar_senha = senha.querySelector('input[type="submit"]')
+    enviar_senha.style.backgroundColor="#ADD8E6";
     texto_senha = senha.querySelector('input[type="password"]')
     enviar_senha.addEventListener('click',function(){
         valor = texto_senha.value

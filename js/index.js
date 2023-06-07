@@ -24,4 +24,5 @@ document.addEventListener('DOMContentLoaded',function(){
             checkbox.checked = false
         }
     })
+    checkbox.style.backgroundColor = "#ADD8E6";
 })
